@@ -1,0 +1,24 @@
+
+body {}
+
+.screen{
+position: absolute;
+width: 96%;
+height: 96%;
+display: block;
+top: 1%;
+left: 2%;
+background: radial-gradient(50% 50% at 50% 50%, #736180 0%, #3B2F43 95.73%);
+border-radius: 58px;
+}
+
+h1{
+font-family: Game Over;
+color: white;
+font-style: normal;
+font-weight: normal;
+font-size: 180px;
+line-height: 77px;
+text-align: center;
+}
+
